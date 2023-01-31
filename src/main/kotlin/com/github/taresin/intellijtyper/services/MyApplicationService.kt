@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.taresin.intellijtyper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.taresin.intellijtyper.MyBundle
 
 class MyApplicationService {
 
